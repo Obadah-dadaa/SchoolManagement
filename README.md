@@ -1,2 +1,3 @@
 An internal system for managing a private school: A system for managing a school and automating it through a control panel that enables the admin, who is the school principal, to have full control over the system by adding a student to the system, adding their financial fees, reviewing them, and verifying payment. Additionally, the system allows for the review of registered students in the school, as well as parents since the system is aimed at improving the relationship between parents and the school. The system also allows for the addition of teachers, reviewing their information, as well as reviewing attendance and absences, and displaying the curriculum for each class and section according to the schedule.
-
+ 
+ Languages and technologies used in this system:HTML5,CSS3,JAVASCRIPT,BOOTSTRAP,PHP,LARAVEL,MYSQL
